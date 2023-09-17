@@ -1,0 +1,217 @@
+1694485518027	geckodriver	INFO	Listening on 127.0.0.1:61352
+1694485518249	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofilebiJkg2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-11 22:25:18.449 firefox[41325:1115764] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694485518567	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694485518655	Marionette	INFO	Listening on port 61364
+Read port: 61364
+WebDriver BiDi listening on ws://127.0.0.1:61353
+1694485518703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61353/devtools/browser/b939dcd9-f5c2-49cd-bf9b-43fceb50199e
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://js-agent.newrelic.com/nr-rum.1efcb83a-1.239.1.min.js, line 2: Script terminated by timeout at:
+85/p/r<@https://js-agent.newrelic.com/nr-rum.1efcb83a-1.239.1.min.js:2:37502
+
+1694485533252	Marionette	INFO	Stopped listening on port 61364
+1694485644838	geckodriver	INFO	Listening on 127.0.0.1:61440
+1694485645356	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofileHNsdR2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-11 22:27:25.551 firefox[41921:1118893] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694485645659	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694485645745	Marionette	INFO	Listening on port 61448
+WebDriver BiDi listening on ws://127.0.0.1:61441
+Read port: 61448
+1694485645890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61441/devtools/browser/99a29dc9-58cb-4baa-86a3-40bf1dfdc81e
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.f6497681a.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.f6497681a.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/accounts/login/, line 496: TypeError: document.getElementsByClassName(...)[0] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1694526957003	geckodriver	INFO	Listening on 127.0.0.1:65510
+1694526957500	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofilepCu2VM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-12 09:55:57.716 firefox[29349:1717789] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694526957842	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694526957953	Marionette	INFO	Listening on port 65519
+WebDriver BiDi listening on ws://127.0.0.1:65511
+Read port: 65519
+1694526958079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65511/devtools/browser/497873e0-0d12-45f7-ba1b-0b5f96200561
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+console.error: WebExtensions: 
+  Message: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIPropertyBag.getProperty]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/chrome/browser/builtin-addons/search-detection/api.js :: stopListener :: line 197"  data: no]
+  Stack:
+    stopListener@jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/chrome/browser/builtin-addons/search-detection/api.js:197:32
+
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fclient%3Dfirefox-b-1-d%26q%3Dhello&q=EgRoHND6GPvbgagGIjCa-1gzFx3bUtOMHeZQYyeyCTiIXNE26zorXaJ11gFQMaDUVQGq_e6O_OFuRkCYDeMyAXJaAUM, line 1: SyntaxError: expected expression, got ','
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://leetcode.com/, line 12: Script terminated by timeout at:
+p@https://leetcode.com/:12:8164
+P/<@https://leetcode.com/:12:25840
+
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.snr.en_US.r-4UauHx58Y.O/am=ChCAAQIAAAAAAAAAAgCgesIhgA0wAP_cBwAAIAiAQlUEAAYAAt5_IjEAAAgAATABxOEeAEAJVcAOAAAAjP0AAAAgABAsAMYLAE0AB0KAAiAAAAAA8gDgPIDgYMICAAAAAAAAAAAACHiCYHBAeiwgAAIAAAAAAAAAAACpZPJyAAEAMA/d=1/ed=1/dg=2/rs=ACT90oHeeTjG5uYVPCEYHBzHhXce77QvZw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:OXTqFb;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:uRMPBc;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 407: Script terminated by timeout at:
+b@https://www.google.com/xjs/_/js/k=xjs.snr.en_US.r-4UauHx58Y.O/am=ChCAAQIAAAAAAAAAAgCgesIhgA0wAP_cBwAAIAiAQlUEAAYAAt5_IjEAAAgAATABxOEeAEAJVcAOAAAAjP0AAAAgABAsAMYLAE0AB0KAAiAAAAAA8gDgPIDgYMICAAAAAAAAAAAACHiCYHBAeiwgAAIAAAAAAAAAAACpZPJyAAEAMA/d=1/ed=1/dg=2/rs=ACT90oHeeTjG5uYVPCEYHBzHhXce77QvZw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:OXTqFb;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:uRMPBc;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:407:40
+
+1694526999630	Marionette	INFO	Stopped listening on port 65519
+1694527035694	geckodriver	INFO	Listening on 127.0.0.1:49239
+1694527036213	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofiletAQj3T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-12 09:57:16.401 firefox[29588:1720201] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694527036504	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694527036590	Marionette	INFO	Listening on port 49245
+Read port: 49245
+WebDriver BiDi listening on ws://127.0.0.1:49240
+1694527036696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49240/devtools/browser/f35546d1-b2ff-4402-b835-0224b9a34a3e
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+1694527069990	Marionette	INFO	Stopped listening on port 49245
+1694527351773	geckodriver	INFO	Listening on 127.0.0.1:49387
+1694527352290	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofileYnoeWL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-12 10:02:32.493 firefox[30326:1727234] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694527352601	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694527352696	Marionette	INFO	Listening on port 49393
+WebDriver BiDi listening on ws://127.0.0.1:49388
+Read port: 49393
+1694527352802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49388/devtools/browser/552d36f6-4fab-43b3-b73b-0887d26e1953
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://leetcode.com/, line 12: Script terminated by timeout at:
+p@https://leetcode.com/:12:8164
+P/<@https://leetcode.com/:12:25840
+
+1694527366035	Marionette	INFO	Stopped listening on port 49393
+1694527506384	geckodriver	INFO	Listening on 127.0.0.1:49481
+1694527506901	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofileAyxpWB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-12 10:05:07.082 firefox[30698:1730868] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694527507191	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694527507279	Marionette	INFO	Listening on port 49487
+WebDriver BiDi listening on ws://127.0.0.1:49482
+Read port: 49487
+1694527507432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49482/devtools/browser/90649000-260a-4c88-81b2-da98010e5020
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+1694527518604	Marionette	INFO	Stopped listening on port 49487
+1694527528000	geckodriver	INFO	Listening on 127.0.0.1:49555
+1694527528513	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofilenSbE0m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-12 10:05:28.675 firefox[30798:1731881] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694527528784	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694527528875	Marionette	INFO	Listening on port 49561
+Read port: 49561
+WebDriver BiDi listening on ws://127.0.0.1:49556
+1694527528979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49556/devtools/browser/c09f015a-91be-4648-b590-5c242f4bc9d0
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: https://leetcode.com/playground/UpwhGDg6/shared, line 507: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.f6497681a.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/desktop.f6497681a.js, line 12: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/accounts/login/, line 496: TypeError: document.getElementsByClassName(...)[0] is undefined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://leetcode.com."
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 539: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://leetcode.com/_next/static/chunks/pages/_app-7865159a5e2a766c.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694527618429	Marionette	INFO	Stopped listening on port 49561
+1694527618486	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1694528094743	geckodriver	INFO	Listening on 127.0.0.1:49752
+1694528095261	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofilemJono6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-12 10:14:55.452 firefox[32095:1743567] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694528095554	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694528095643	Marionette	INFO	Listening on port 49759
+WebDriver BiDi listening on ws://127.0.0.1:49753
+Read port: 49759
+1694528095786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49753/devtools/browser/4260d6c6-d1cb-437a-9ef5-d06780d7ca78
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+1694528138092	geckodriver	INFO	Listening on 127.0.0.1:49836
+1694528138606	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/6h/g2dg17xs1z30x6fbym_0b1wh0000gn/T/rust_mozprofileRiXpEm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-09-12 10:15:38.798 firefox[32238:1744920] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1694528138906	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694528138996	Marionette	INFO	Listening on port 49842
+WebDriver BiDi listening on ws://127.0.0.1:49837
+Read port: 49842
+1694528139150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49837/devtools/browser/d33c6fb0-eaaa-4c6e-950a-835a7f9efa1e
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-apps/navbar-footer/index.70142bbe5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://leetcode.com/, line 589: TypeError: document.getElementsByClassName(...)[0] is undefined
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2Ctablesorter%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=sehmp, line 122: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2Ctablesorter%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=sehmp:122:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2Ctablesorter%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=sehmp:122:585
+
+JavaScript warning: https://leetcode.com/, line 12: Script terminated by timeout at:
+p@https://leetcode.com/:12:8164
+P/<@https://leetcode.com/:12:25840
+
+1694528160167	Marionette	INFO	Stopped listening on port 49842
+JavaScript warning: https://leetcode.com/static/webpack_bundles/new-libs.6413e5bd4.js, line 1: Script terminated by timeout at:
+DIDV/d/<@https://leetcode.com/static/webpack_bundles/new-libs.6413e5bd4.js:1:949940
+
+1694528163939	Marionette	INFO	Stopped listening on port 49759
